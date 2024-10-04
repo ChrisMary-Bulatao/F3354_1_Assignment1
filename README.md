@@ -5,3 +5,11 @@ Step 2: Create frontend separately and integrate it with backend points
 Step 3: Create containerized deployments for backend on google Kubernetes cluster
 Step 4: Test your front end with updated URLs
 Step 5: Create containerized deployment or front end
+
+
+## Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python Flask
+- Database: PostgreSQL
+- Containerization: Docker
+- Deployment: Kubernetes on GKE
